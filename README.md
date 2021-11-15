@@ -126,3 +126,10 @@ Group Name: Natasha Romanoff
     * Split Data หรือ แบ่ง Data
     * สร้าง Model ทำนาย
     * Evaluation
+
+* บทที่ 7 [Clustering  ](https://github.com/ThitiwatJtrsn/DWDM21/blob/main/Chap8_Clustering.ipynb) ประกอบด้วยหัวข้อ ดังนี้
+  * K-means
+    * Generate Data
+    * Clustering
+    * Example Application (Color Quantization)
+    * การนับจำนวนสี
