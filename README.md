@@ -13,3 +13,9 @@ Group Name: Natasha Romanoff
 4 623020514-5	จุฑากาญจน์ ชิงจันทร์
 
 5 623021046-7	ชนกานต์ พูลผล
+
+# สารบัญเนื้อหา
+
+วิชา Data Mining and Data Warehouse
+
+* บทที่ 1 [introduction](https://github.com/ThitiwatJtrsn/DWDM21/blob/main/HW1.pdf)
