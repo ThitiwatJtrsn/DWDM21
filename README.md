@@ -48,3 +48,31 @@ Group Name: Natasha Romanoff
   * [Distance Numpy](https://github.com/ThitiwatJtrsn/DWDM21/blob/main/Distance_Numpy.ipynb)
     * Numpy Array
     * Distance Matrix
+    
+* บทที่ 3 [Data Preprocessing](https://github.com/ThitiwatJtrsn/DWDM21/blob/main/Data_Preprocessing(Chapter_3).ipynb) ประกอบด้วยหัวข้อ ดังนี้
+  * Meta Data
+  * การจัดการข้อมูลในตารางก่อนนำไปวิเคราะห์
+    * การชี้ข้อมูลในตาราง
+      * ชี้แบบธรรมดา
+      * ชี้แบบ .iloc[
+    * Missing Value
+      * Handle Missing Value 1 (ลบค่า Missing)
+      * Handle Missing Value 1.5 (ลบค่า Missing เฉพาะใน column ที่เราสนใจ)
+      * Handle Missing Value 2
+      * Handle Missing Value 3 (แทนด้วย class ใหม่ (ค่าที่เหมาะสม))
+      * Handle Missing Value 4 (แทนด้วยค่ากลาง)
+      * Handling Missing Value 5 (แทนด้วย column ใกล้เคียง)
+    * PANDA
+      * Select data by values [PD]
+      * ใช้ & (and) และ | (or) ในการรวม list ของ boolean
+    * Quiz 4
+      * การต่อตารางแนวแกน Y [PD]
+      * Handling Missing Value 5 (แทนด้วย ค่ากลางของ samples ใน class เดียวกัน)(ต่อ)
+      * การเรียงข้อมูล[PD]
+      * utlier
+    * Quiz 5
+      * Pandas' looping(.iterrows)
+    * การรวม 2 ตารางโดยใช้ .merge()
+      * Group by (pandas)
+      * [PD] save ตารางเอาไปใช้ที่อื่น
+      * [PD]การสร้างตาราง
