@@ -133,3 +133,6 @@ Group Name: Natasha Romanoff
     * Clustering
     * Example Application (Color Quantization)
     * การนับจำนวนสี
+
+  * โครงงานกลุ่ม[ Project](https://github.com/ThitiwatJtrsn/DWDM21/blob/main/ProjectFinal.ipynb)
+    * สไลด์นำเสนอ [Slide Present](https://github.com/ThitiwatJtrsn/DWDM21/blob/main/Project.pdf)
