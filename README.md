@@ -25,3 +25,13 @@ Group Name: Natasha Romanoff
   * Data Mining คืออะไร?
   * ขั้นตอนการทำ DataMining
   * ตัวอย่างการนำเหมืองข้อมูลไปใช้งาน
+  
+* บทที่ 2 Getting to Know Your Data ประกอบด้วยหัวข้อ ดังนี้
+
+  * [Basic Python](https://github.com/ThitiwatJtrsn/DWDM21/blob/main/Data101_(Chapter2).ipynb)
+    * Casting
+    * Data Structure
+    * List
+    * Loop
+    * Condition
+    * Function
