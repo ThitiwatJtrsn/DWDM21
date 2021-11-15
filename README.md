@@ -35,3 +35,16 @@ Group Name: Natasha Romanoff
     * Loop
     * Condition
     * Function
+  * [Plot Data](https://github.com/ThitiwatJtrsn/DWDM21/blob/main/Data102_(Chapter2).ipynb)
+    * Besic Data
+    * การตรวจสอบตารางข้อมูลโดยใช้ .head()&.tail()
+    * Boxplot
+    * Time Series Plot
+  * [Visualizetion](https://github.com/ThitiwatJtrsn/DWDM21/blob/main/Data_Visualization.ipynb)
+    * Scatter plot
+    * Plot
+    * Bar chart
+    * Histogram
+  * [Distance Numpy](https://github.com/ThitiwatJtrsn/DWDM21/blob/main/Distance_Numpy.ipynb)
+    * Numpy Array
+    * Distance Matrix
