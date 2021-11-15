@@ -28,6 +28,12 @@ Group Name: Natasha Romanoff
   
 * บทที่ 2 Getting to Know Your Data ประกอบด้วยหัวข้อ ดังนี้
 
+**Lecture**
+
+  * [สรุปการบ้านคาบ 1 Know your data](https://github.com/ThitiwatJtrsn/DWDM21/blob/main/HW2.1.pdf)
+
+**Googlecolab**
+
   * [Basic Python](https://github.com/ThitiwatJtrsn/DWDM21/blob/main/Data101_(Chapter2).ipynb)
     * Casting
     * Data Structure
