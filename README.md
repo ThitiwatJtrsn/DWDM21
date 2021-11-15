@@ -82,3 +82,15 @@ Group Name: Natasha Romanoff
       * Group by (pandas)
       * [PD] save ตารางเอาไปใช้ที่อื่น
       * [PD]การสร้างตาราง
+
+* บทที่ 4 [Data Warehousing and On-line Anaalytical Processing ](https://github.com/ThitiwatJtrsn/DWDM21/blob/main/Chapter_4.pdf) ประกอบด้วยหัวข้อ ดังนี้
+  * Basic Data Warehouse
+    * อะไรคือคลังข้อมูล
+    * วัตถุประสงค์
+    * การบูรณาการ
+  * Data Cube and OLAP
+    * OLTP vs. OLAP
+    * Data Cubes
+    * Conceptual Modeling of Data Warehouse
+  * การออกแบบ และการใช้งานคลังข้อมูล
+  * ความสำคัญของคลังข้อมูล
