@@ -18,4 +18,10 @@ Group Name: Natasha Romanoff
 
 วิชา Data Mining and Data Warehouse
 
-* บทที่ 1 [introduction](https://github.com/ThitiwatJtrsn/DWDM21/blob/main/HW1.pdf)
+* บทที่ 1 [introduction](https://github.com/ThitiwatJtrsn/DWDM21/blob/main/HW1.pdf) ประกอบด้วยหัวข้อ ดังนี้
+
+  * DAIS ประกอบด้วย
+  * ทำไมต้องทำ Data Mining?
+  * Data Mining คืออะไร?
+  * ขั้นตอนการทำ DataMining
+  * ตัวอย่างการนำเหมืองข้อมูลไปใช้งาน
