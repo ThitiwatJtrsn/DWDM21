@@ -94,3 +94,13 @@ Group Name: Natasha Romanoff
     * Conceptual Modeling of Data Warehouse
   * การออกแบบ และการใช้งานคลังข้อมูล
   * ความสำคัญของคลังข้อมูล
+
+* บทที่ 5 [Association_Rules ](https://github.com/ThitiwatJtrsn/DWDM21/blob/main/Chapter_6_Association_Rules.ipynb) ประกอบด้วยหัวข้อ ดังนี้
+  * ความหมาย
+  * Besic Concepts
+    * Plot graph of Itemsets
+    * การแก้ไขคอลัมน์ข้อมูล
+    * Frequence Itemsets to Association Rule
+  * Efficient Pattern Mining Methods
+    * Apriori
+    * Support
