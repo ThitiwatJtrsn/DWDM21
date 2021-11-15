@@ -56,6 +56,7 @@ Group Name: Natasha Romanoff
     * Distance Matrix
     
 * บทที่ 3 [Data Preprocessing](https://github.com/ThitiwatJtrsn/DWDM21/blob/main/Data_Preprocessing(Chapter_3).ipynb) ประกอบด้วยหัวข้อ ดังนี้
+
   * Meta Data
   * การจัดการข้อมูลในตารางก่อนนำไปวิเคราะห์
     * การชี้ข้อมูลในตาราง
@@ -84,6 +85,7 @@ Group Name: Natasha Romanoff
       * [PD]การสร้างตาราง
 
 * บทที่ 4 [Data Warehousing and On-line Anaalytical Processing ](https://github.com/ThitiwatJtrsn/DWDM21/blob/main/Chapter_4.pdf) ประกอบด้วยหัวข้อ ดังนี้
+
   * Basic Data Warehouse
     * อะไรคือคลังข้อมูล
     * วัตถุประสงค์
@@ -96,6 +98,7 @@ Group Name: Natasha Romanoff
   * ความสำคัญของคลังข้อมูล
 
 * บทที่ 5 [Association_Rules ](https://github.com/ThitiwatJtrsn/DWDM21/blob/main/Chapter_6_Association_Rules.ipynb) ประกอบด้วยหัวข้อ ดังนี้
+
   * ความหมาย
   * Besic Concepts
     * Plot graph of Itemsets
@@ -104,3 +107,22 @@ Group Name: Natasha Romanoff
   * Efficient Pattern Mining Methods
     * Apriori
     * Support
+
+* บทที่ 6 บทที่ 6 Classification ประกอบด้วยหัวข้อ ดังนี้
+
+  * [Desition Tree](https://github.com/ThitiwatJtrsn/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
+    * Train Model
+    * plot tree
+    * Evaluation
+    * Random
+    * Advanced Tree
+    * TEST
+  * [KNN](https://github.com/ThitiwatJtrsn/DWDM21/blob/main/Chap7_Classification_(KNN_NN).ipynb)
+    * Split Data
+    * Train Model
+    * Retrain & Evaluate
+    * Neural Network
+  * [Evaluation](https://github.com/ThitiwatJtrsn/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
+    * Split Data หรือ แบ่ง Data
+    * สร้าง Model ทำนาย
+    * Evaluation
